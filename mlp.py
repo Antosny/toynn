@@ -45,7 +45,7 @@ def loss(x, y):
 
 
 #update
-for iter in range(0, 20):
+for iter in range(0, 2000):
     batchsize = len(X)
     for i in range(0, X.shape[0], batchsize):
         print '---'
@@ -70,8 +70,6 @@ for iter in range(0, 20):
         grad_z_a = z.copy()
         grad_z_a[grad_z_a > 0] = 1
         grad_z_a[grad_z_a != 1] = 0
-        if 0 in grad_z_a:
-            print 'hehe'
         #print grad_z_a
         grad_w1 = x_batch.T.dot(grad_z * grad_z_a)
         #print grad_w1.shape
