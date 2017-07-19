@@ -5,8 +5,10 @@ import math
 
 digits = datasets.load_digits()
 
-X = digits['data']
-Y = digits['target']
+X = digits['data'][:-100]
+Y = digits['target'][:-100]
+X_te = digits['data'][-100:]
+Y_te = digits['target'][-100:]
 Y_dummy = np.zeros((len(X), 10))
 for i in range(0, len(X)):
     Y_dummy[i, Y[i]] = 1
@@ -43,9 +45,17 @@ def loss(x, y):
         res += -math.log(x[i, y[i]] + 1e-15)
     return res / len(y)
 
+def predict(x):
+    a = x_batch.dot(w1)
+    z = relu(a)
+    a2 = z.dot(w2)
+    pre_batch = softmax(a2)
+    return pre_batch
+
+regu = 5
 
 #update
-for iter in range(0, 2000):
+for iter in range(0,100):
     batchsize = len(X)
     for i in range(0, X.shape[0], batchsize):
         print '---'
@@ -59,22 +69,19 @@ for iter in range(0, 2000):
         a2 = z.dot(w2)
         pre_batch = softmax(a2)
         batch_loss = loss(pre_batch, y_batch)
-        print batch_loss
+        print 'train loss:' + str(batch_loss) + ' eval loss:' + str(loss(predict(X_te), Y_te))
         #back prop
         #back prop w2
         #loss for L / o
-        grad_a2 = pre_batch - y_dummy_batch
-        grad_w2 = z.T.dot(grad_a2) / batchsize
-        grad_z = grad_a2.dot(w2.T) / batchsize
+        grad_a2 = (pre_batch - y_dummy_batch) / batchsize
+        grad_w2 = (z.T.dot(grad_a2) + regu * w2)
+        grad_z = grad_a2.dot(w2.T)
         #grad_z_a = z * (z - 1)
         grad_z_a = z.copy()
         grad_z_a[grad_z_a > 0] = 1
         grad_z_a[grad_z_a != 1] = 0
         #print grad_z_a
-        grad_w1 = x_batch.T.dot(grad_z * grad_z_a)
-        #print grad_w1.shape
-        #grad_w1
-        w2 -= 0.001 * grad_w2
-        w1 -= 0.001 * grad_w1
-
+        grad_w1 = (x_batch.T.dot(grad_z * grad_z_a) + regu * w1) 
+        w2 -= 0.01 * grad_w2
+        w1 -= 0.01 * grad_w1
 
