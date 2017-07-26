@@ -1,0 +1,61 @@
+[I 16:24:43.556 NotebookApp] Serving notebooks from local directory: /Users/Antosny/Workspace/toynn
+[I 16:24:43.557 NotebookApp] 0 active kernels 
+[I 16:24:43.557 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
+[I 16:24:43.557 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:24:46.023 NotebookApp] 404 GET /api/kernels/2b83fb34-faad-4bbd-8096-a8364271f3d6/channels?session_id=41189F524AFF476580DC51F79C1A1E88 (::1): Kernel does not exist: 2b83fb34-faad-4bbd-8096-a8364271f3d6
+[W 16:24:46.032 NotebookApp] 404 GET /api/kernels/2b83fb34-faad-4bbd-8096-a8364271f3d6/channels?session_id=41189F524AFF476580DC51F79C1A1E88 (::1) 19.93ms referer=None
+[W 16:24:54.044 NotebookApp] Replacing stale connection: 2b83fb34-faad-4bbd-8096-a8364271f3d6:41189F524AFF476580DC51F79C1A1E88
+[W 16:24:58.980 NotebookApp] Notebook cnn.ipynb is not trusted
+[I 16:24:59.618 NotebookApp] Kernel started: 6aebd56d-36b2-4202-b788-fc6d6404870c
+[W 16:24:59.630 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170725162443 (::1) 4.73ms referer=http://localhost:8888/notebooks/cnn.ipynb
+[I 16:26:59.551 NotebookApp] Saving file at /cnn.ipynb
+[I 16:28:59.545 NotebookApp] Saving file at /cnn.ipynb
+[I 16:30:59.544 NotebookApp] Saving file at /cnn.ipynb
+[I 16:32:59.546 NotebookApp] Saving file at /cnn.ipynb
+[I 16:35:00.038 NotebookApp] Saving file at /cnn.ipynb
+[I 16:48:59.864 NotebookApp] Saving file at /cnn.ipynb
+[I 16:50:59.517 NotebookApp] Saving file at /cnn.ipynb
+[I 16:56:59.508 NotebookApp] Saving file at /cnn.ipynb
+[I 16:58:59.508 NotebookApp] Saving file at /cnn.ipynb
+[I 17:00:59.506 NotebookApp] Saving file at /cnn.ipynb
+[I 17:02:59.504 NotebookApp] Saving file at /cnn.ipynb
+[W 17:50:10.700 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170725162443 (::1) 2.57ms referer=http://localhost:8888/notebooks/cnn.ipynb
+[I 18:38:10.872 NotebookApp] Saving file at /cnn.ipynb
+[I 18:40:10.868 NotebookApp] Saving file at /cnn.ipynb
+[I 18:42:10.866 NotebookApp] Saving file at /cnn.ipynb
+[I 18:50:10.858 NotebookApp] Saving file at /cnn.ipynb
+[I 19:34:10.795 NotebookApp] Saving file at /cnn.ipynb
+[I 19:36:10.793 NotebookApp] Saving file at /cnn.ipynb
+[I 19:38:10.796 NotebookApp] Saving file at /cnn.ipynb
+[I 19:40:10.787 NotebookApp] Saving file at /cnn.ipynb
+[I 20:18:10.734 NotebookApp] Saving file at /cnn.ipynb
+[I 20:20:10.745 NotebookApp] Saving file at /cnn.ipynb
+[I 20:22:10.727 NotebookApp] Saving file at /cnn.ipynb
+[I 20:24:10.727 NotebookApp] Saving file at /cnn.ipynb
+[I 20:26:10.721 NotebookApp] Saving file at /cnn.ipynb
+[I 20:28:10.718 NotebookApp] Saving file at /cnn.ipynb
+[I 20:32:10.710 NotebookApp] Saving file at /cnn.ipynb
+[I 20:34:10.710 NotebookApp] Saving file at /cnn.ipynb
+[I 20:36:10.706 NotebookApp] Saving file at /cnn.ipynb
+[I 20:38:10.702 NotebookApp] Saving file at /cnn.ipynb
+[I 20:40:10.778 NotebookApp] Saving file at /cnn.ipynb
+[I 20:44:10.694 NotebookApp] Saving file at /cnn.ipynb
+[I 20:46:11.413 NotebookApp] Saving file at /cnn.ipynb
+[I 20:48:10.687 NotebookApp] Saving file at /cnn.ipynb
+[I 20:50:10.684 NotebookApp] Saving file at /cnn.ipynb
+[I 20:52:10.682 NotebookApp] Saving file at /cnn.ipynb
+[I 20:54:10.679 NotebookApp] Saving file at /cnn.ipynb
+[I 20:54:18.110 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:10.675 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:33.195 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:34.621 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:34.866 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:35.099 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:35.299 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:35.491 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:35.671 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:35.845 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:35.996 NotebookApp] Saving file at /cnn.ipynb
+[I 20:58:51.977 NotebookApp] Kernel restarted: 6aebd56d-36b2-4202-b788-fc6d6404870c
+[I 20:59:01.155 NotebookApp] Saving file at /cnn.ipynb
+[I 20:59:01.868 NotebookApp] Saving file at /cnn.ipynb
