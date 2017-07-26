@@ -139,3 +139,106 @@
 [I 21:44:27.404 NotebookApp] Saving file at /cnn.ipynb
 [I 21:44:29.360 NotebookApp] Saving file at /cnn.ipynb
 [I 21:45:15.401 NotebookApp] Kernel interrupted: 6aebd56d-36b2-4202-b788-fc6d6404870c
+[I 01:09:41.165 NotebookApp] Serving notebooks from local directory: /Users/antosny/Workspace/toynn
+[I 01:09:41.165 NotebookApp] 0 active kernels 
+[I 01:09:41.165 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=1419a5934e8383ce70cbada6aecf02bfc3aaa107d878d40f
+[I 01:09:41.165 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:09:41.167 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=1419a5934e8383ce70cbada6aecf02bfc3aaa107d878d40f
+[I 01:09:41.593 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 01:09:45.283 NotebookApp] Notebook cnn.ipynb is not trusted
+[W 01:09:45.385 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170727010940 (::1) 14.53ms referer=http://localhost:8888/notebooks/cnn.ipynb
+[I 01:09:45.574 NotebookApp] Kernel started: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:10:03.279 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:10:20.980 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:10:52.236 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:10:56.222 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:11:27.773 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:11:45.553 NotebookApp] Saving file at /cnn.ipynb
+[I 01:17:45.567 NotebookApp] Saving file at /cnn.ipynb
+[I 01:19:45.563 NotebookApp] Saving file at /cnn.ipynb
+[I 01:20:05.668 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:21:45.565 NotebookApp] Saving file at /cnn.ipynb
+[I 01:23:45.570 NotebookApp] Saving file at /cnn.ipynb
+[I 01:25:45.574 NotebookApp] Saving file at /cnn.ipynb
+[I 01:25:54.769 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:26:00.655 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:27:44.576 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:27:45.575 NotebookApp] Saving file at /cnn.ipynb
+[I 01:27:59.266 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:28:03.733 NotebookApp] Saving file at /cnn.ipynb
+[I 01:28:20.259 NotebookApp] Saving file at /cnn.ipynb
+[I 01:28:34.048 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:28:38.664 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:28:59.720 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:29:28.562 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:29:45.576 NotebookApp] Saving file at /cnn.ipynb
+[I 01:29:48.857 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:31:45.584 NotebookApp] Saving file at /cnn.ipynb
+[I 01:35:43.121 NotebookApp] Saving file at /cnn.ipynb
+[I 01:35:45.588 NotebookApp] Saving file at /cnn.ipynb
+[I 01:36:48.635 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:36:59.689 NotebookApp] Saving file at /cnn.ipynb
+[I 01:37:26.682 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:37:45.590 NotebookApp] Saving file at /cnn.ipynb
+[I 01:38:16.954 NotebookApp] Saving file at /cnn.ipynb
+[I 01:38:30.606 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:39:10.993 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:39:45.597 NotebookApp] Saving file at /cnn.ipynb
+[I 01:40:00.659 NotebookApp] Saving file at /cnn.ipynb
+[I 01:40:04.649 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:41:45.599 NotebookApp] Saving file at /cnn.ipynb
+[I 01:43:19.994 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:43:25.338 NotebookApp] Saving file at /cnn.ipynb
+[I 01:43:45.597 NotebookApp] Saving file at /cnn.ipynb
+[I 01:44:29.138 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:44:36.351 NotebookApp] Saving file at /cnn.ipynb
+[I 01:45:04.644 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:45:40.162 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:45:45.607 NotebookApp] Saving file at /cnn.ipynb
+[I 01:45:58.835 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:46:10.643 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:46:33.452 NotebookApp] Saving file at /cnn.ipynb
+[I 01:46:42.690 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:46:46.377 NotebookApp] Saving file at /cnn.ipynb
+[I 01:46:57.927 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:47:03.205 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:47:15.978 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:47:45.603 NotebookApp] Saving file at /cnn.ipynb
+[I 01:48:56.632 NotebookApp] Saving file at /cnn.ipynb
+[I 01:49:02.195 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:49:09.564 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:49:16.984 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:49:36.972 NotebookApp] Saving file at /cnn.ipynb
+[I 01:49:40.692 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:49:45.607 NotebookApp] Saving file at /cnn.ipynb
+[I 01:49:54.455 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:49:58.255 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:50:11.639 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:51:03.533 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:51:45.610 NotebookApp] Saving file at /cnn.ipynb
+[I 01:51:48.318 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:52:03.036 NotebookApp] Saving file at /cnn.ipynb
+[I 01:52:07.168 NotebookApp] Saving file at /cnn.ipynb
+[I 01:52:19.296 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:52:59.494 NotebookApp] Saving file at /cnn.ipynb
+[I 01:53:44.450 NotebookApp] Saving file at /cnn.ipynb
+[I 01:53:45.612 NotebookApp] Saving file at /cnn.ipynb
+[I 01:53:49.038 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:54:05.160 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:54:09.618 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:54:58.598 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:55:17.685 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:55:45.616 NotebookApp] Saving file at /cnn.ipynb
+[I 01:56:23.621 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:56:34.762 NotebookApp] Saving file at /cnn.ipynb
+[I 01:56:40.461 NotebookApp] Kernel interrupted: a639930c-6ced-4423-bdcf-3777b6d57a97
+[I 01:56:43.811 NotebookApp] Saving file at /cnn.ipynb
+[I 01:56:44.722 NotebookApp] Saving file at /cnn.ipynb
+[I 01:56:44.941 NotebookApp] Saving file at /cnn.ipynb
+[I 01:56:45.141 NotebookApp] Saving file at /cnn.ipynb
+[I 01:56:45.309 NotebookApp] Saving file at /cnn.ipynb
+[I 01:56:45.454 NotebookApp] Saving file at /cnn.ipynb
