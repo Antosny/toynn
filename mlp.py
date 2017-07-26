@@ -76,6 +76,8 @@ for iter in range(0,100):
         grad_a2 = (pre_batch - y_dummy_batch) / batchsize
         grad_w2 = (z.T.dot(grad_a2) + regu * w2)
         grad_z = grad_a2.dot(w2.T)
+        print grad_z.shape
+        print x_batch.shape
         #grad_z_a = z * (z - 1)
         grad_z_a = z.copy()
         grad_z_a[grad_z_a > 0] = 1
