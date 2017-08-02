@@ -52,7 +52,7 @@ def predict(x):
     pre_batch = softmax(a2)
     return pre_batch
 
-regu = 5
+regu = 0
 
 #update
 for iter in range(0,100):
