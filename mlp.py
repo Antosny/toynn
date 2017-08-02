@@ -85,5 +85,5 @@ for iter in range(0,100):
         #print grad_z_a
         grad_w1 = (x_batch.T.dot(grad_z * grad_z_a) + regu * w1) 
         w2 -= 0.01 * grad_w2
-        w1 -= 0.01 * grad_w1
+        #w1 -= 0.01 * grad_w1
 
