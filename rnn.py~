@@ -136,10 +136,10 @@ for iter in range(0,20):
             for i in range(0, len(hlist)):
                 gradtanh = gradhlist[corridx]
                 tempw2.append(hlist[i].T.dot(gradh[i] * gradtanh))
-            w2grad.append(np.array(tempw2).mean(axis=0))
+            w2grad.append(np.array(tempw2).sum(axis=0))
             print '---'
-            print tempw2[0]
-            print tempw2[-1]
+            print w2grad[0]
+            print w2grad[-1]
             print '---'
             #cal grad w1
             tempw1 = []
